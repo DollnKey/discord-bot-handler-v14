@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.8.0"
+  },
+  "name": "handler",
+  "description": "Discord Bot Handler v14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DollnKey/discord-bot-handler-v14.git"
+  },
+  "author": "DollnKey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DollnKey/discord-bot-handler-v14/issues"
+  },
+  "homepage": "https://github.com/DollnKey/discord-bot-handler-v14#readme"
+}
